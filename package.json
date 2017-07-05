@@ -1,0 +1,21 @@
+{
+  "name": "scraping",
+  "version": "1.0.0",
+  "description": "YouTube web scraper",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eduardo Riquelme",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3"
+  },
+  "engines": {
+    "node": "7.10.0"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "heroku"
+  ]
+}
